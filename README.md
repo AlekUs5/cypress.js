@@ -1,1 +1,1 @@
-# cypress.js
+# autotests on cypress.js
